@@ -1,6 +1,6 @@
-# desagio-Go-full-cycle
+# desafio-Go-full-cycle
 
-# Projeto FullCycle Docker Go
+# Projeto FullCycle Docker Go  :star2:
 
 ## Descrição
 
@@ -26,6 +26,6 @@ docker run sttef/projeto-fullcycle
 
 ````
 
-
+:star2:  :star2:  :star2:  :star2:
 
 
