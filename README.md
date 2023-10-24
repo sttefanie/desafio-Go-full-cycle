@@ -28,4 +28,8 @@ docker run sttef/projeto-fullcycle
 
 :star2:  :star2:  :star2:  :star2:
 
+### Link do projeto no dockerhub
+
+https://hub.docker.com/r/sttef/projeto-fullcycle
+
 
