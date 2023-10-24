@@ -24,14 +24,7 @@ Depois de clonar o repositório, você pode rodar o container Docker usando o se
 ```sh
 docker run sttef/projeto-fullcycle
 
-Este comando irá puxar a imagem do Docker Hub, se você não a tiver localmente, e executar o container. Você deverá ver a mensagem "Full Cycle Rocks!!" no terminal.
-
-### Desenvolvimento Local
-Se você deseja construir o binário localmente, você pode usar o seguinte comando dentro do diretório do projeto:
-
-```sh
-CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o projeto-fullcycle .
-
+````
 
 
 
